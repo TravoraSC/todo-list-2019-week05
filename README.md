@@ -1,22 +1,10 @@
 # ✅ Week05 Bootcamp2019 Project: Todo List
 
-### Goal: Build a Simple Todo List
+<img width="1440" alt="todoListScreenshot" src="https://user-images.githubusercontent.com/102001997/165017499-727c3271-4602-4fd2-8a9e-fd462a732d3e.png">
 
-### How to submit your code for review:
+This a a to-do list that will use negative reinforcement to encourage you to get things done - much like your evil boss 5 years ago.
+I used HTML, CSS, and JavaScript to make this project. I still nned to work on the emails that pop up when you uncross an item on your list. I would like to work on learning flex and grid. I really got to use my creativity and think outside of the boxin this project, which is always a good workout for your brain.
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
-
-Example:
-```
 I completed the challenge: 5
 I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+
